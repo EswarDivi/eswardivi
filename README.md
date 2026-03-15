@@ -14,5 +14,4 @@ I'm a **Python developer and data scientist** interested in building AI systems 
 - Open-source
 - Machine learning systems
 
-📫 eswar.divi.902@gmail.com  
-🔗 https://github.com/EswarDivi
+📫 eswar.divi.902@gmail.com
